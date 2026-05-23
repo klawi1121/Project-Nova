@@ -1,3 +1,2 @@
-
-//config.js main version
-const config = { env: "production" };
+// config.js feature version
+const config = { env: "development" };
